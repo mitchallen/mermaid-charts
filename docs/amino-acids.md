@@ -40,44 +40,44 @@ mindmap
         Serine
         Tyrosine
     Examples of Amino Acids
-      Alanine (Ala)
+      "Alanine (Ala)"
         R-group: CH3
-      Arginine (Arg)
+      "Arginine (Arg)"
         "R-group: HN=C(NH2)-NH-(CH2)3"
       Asparagine (Asn)
         R-group: H2N-CO-CH2
-      Aspartic acid (Asp)
+      "Aspartic acid (Asp)"
         R-group: HOOC-CH2
-      Cysteine (Cys)
+      "Cysteine (Cys)"
         R-group: HS-CH2
-      Glutamic acid (Glu)
+      "Glutamic acid (Glu)"
         "R-group: HOOC-(CH2)2"
-      Glutamine (Gln)
+      "Glutamine (Gln)"
         "R-group: H2N-CO-(CH2)2"
-      Glycine (Gly)
+      "Glycine (Gly)"
         R-group: H
-      Histidine (His)
+      "Histidine (His)"
         R-group: NH-CH=N-CH=C-CH2
-      Isoleucine (Ile)
+      "Isoleucine (Ile)"
         "R-group: CH3-CH2-CH(CH3)"
-      Leucine (Leu)
+      "Leucine (Leu)"
         "R-group: (CH3)2-CH-CH2"
-      Lysine (Lys)
+      "Lysine (Lys)"
         "R-group: H2N-(CH2)4"
-      Methionine (Met)
+      "Methionine (Met)"
         "R-group: CH3-S-(CH2)2"
-      Phenylalanine (Phe)
+      "Phenylalanine (Phe)"
         R-group: C6H5-CH2
-      Proline (Pro)
+      "Proline (Pro)"
         "R-group: (CH2)3"
-      Serine (Ser)
+      "Serine (Ser)"
         R-group: HO-CH2
-      Threonine (Thr)
-       " R-group: CH3-CH(OH)"
-      Tryptophan (Trp)
+      "Threonine (Thr)"
+       "R-group: CH3-CH(OH)"
+      "Tryptophan (Trp)"
         R-group: C6H4-NH-CH=C-CH2
-      Tyrosine (Tyr)
+      "Tyrosine (Tyr)"
         R-group: HO-C6H4-CH2
-      Valine (Val)
+      "Valine (Val)"
         "R-group: (CH3)2-CH"
 ```
