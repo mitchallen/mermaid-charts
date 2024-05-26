@@ -41,7 +41,7 @@ mindmap
         Tyrosine
     Examples of Amino Acids
       "Alanine (Ala)"
-        R-group: CH3
+        "R-group: CH3"
       "Arginine (Arg)"
         "R-group: HN=C(NH2)-NH-(CH2)3"
       Asparagine (Asn)
